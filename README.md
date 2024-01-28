@@ -7,6 +7,10 @@ This is a simple Progressive Web App (PWA) designed to fetch and display weather
 - **City-based Weather:** Enter the name of any city, and the app fetches and displays its current weather information.
 - **Responsive Design:** The app is designed to work seamlessly across various devices and screen sizes.
 
+## Screenshot
+
+![image](https://github.com/AliBnh/PWA-weather/assets/107149305/d016f7c6-271c-451b-bf19-56a9642b138e)
+
 ## Getting Started
 
 Follow these steps to run the app locally:
